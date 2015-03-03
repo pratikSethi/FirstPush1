@@ -1,0 +1,48 @@
+voila !!!!!!!!!!!
+
+commands 
+
+1) git status :
+
+
+2) git add : only stages the file to participate in the next transactional stage.
+
+
+3) git --version
+
+
+4) exit
+
+
+5) git commit :
+
+
+6) git clone :
+
+
+7) git pull :
+
+
+8) git remote add [remote name] //github url :
+
+
+9) git remote rename [current name] [new name] 
+
+
+10) git remote rm
+
+
+11) git remote -v
+
+
+12) git pull [remote name] [branch name]
+
+for eg git pull origin master
+
+
+13) git push origin master
+
+Stuff:
+
+git tracks content.
+nothing i srunning in the background ... No daemon nothing ... Only when u say git status it checks the directory
